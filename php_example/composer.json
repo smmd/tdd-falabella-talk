@@ -1,0 +1,17 @@
+{
+    "name": "smmd/php-examples",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "7.3"
+    },
+    "authors": [
+        {
+            "name": "Sagrario Meneses",
+            "email": "sagrario.meneses@linio.com"
+        }
+    ]
+}
